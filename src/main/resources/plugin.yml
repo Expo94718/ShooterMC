@@ -1,0 +1,7 @@
+name: FPSGame
+version: '${project.version}'
+main: sh7811.fpsgame.FPSGame
+api-version: 1.16
+commands:
+  게임:
+    description: gameCommand
